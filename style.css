@@ -1,0 +1,14 @@
+.jumbotron {
+    background-image: url(img/mediamodifier-nCk22aqZjlM-unsplash.jpg);
+    padding-top: 3rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#SosMed {
+    background-image: url(img/amy-hirschi-szrJ3wjzOMg-unsplash.jpg);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
